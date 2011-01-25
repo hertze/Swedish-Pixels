@@ -1,0 +1,4 @@
+Sitemap: http://hertze.com/sitemap.xml
+
+User-Agent: *
+Disallow: /masterfeed.xml
