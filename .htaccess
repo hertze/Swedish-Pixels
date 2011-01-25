@@ -1,0 +1,30 @@
+ErrorDocument 404 /errorpages/404.html
+
+#Options +FollowSymLinks
+
+<FilesMatch "\.(zip|rar|tar\.gz|pdf)$">
+  RewriteEngine on	
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteRule ^(.*)$ http://swedishpixels.com/mint/pepper/tillkruess/downloads/tracker.php?url=http://%{HTTP_HOST}%{REQUEST_URI}&force
+</FilesMatch>
+
+# Start Feedback rules
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{QUERY_STRING} !FB_secret=52fb9f$
+RewriteRule ^masterfeed.xml/?$ /mint/pepper/hansvankilsdonk/feedback/tracker.php?FB_feed=http://swedishpixels.com/masterfeed.xml&FB_secret=52fb9f&%{QUERY_STRING} [L]
+</IfModule>
+# End Feedback rules
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+RewriteCond %{THE_REQUEST} (.*)(\.)html 
+RewriteRule ^(.*)\.html$ /$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*[^/])/?$ $1.html [L]
