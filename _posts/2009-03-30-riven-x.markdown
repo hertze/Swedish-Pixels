@@ -1,0 +1,24 @@
+--- 
+title:       Riven X
+created_at:  2009-03-30 18:45:21.791401 +01:00
+keywords:    Riven, Myst, Cyan, Riven X, spel
+description: Riven X är ett strålande projekt av Jean-François Roy, mjukvaruingenjör på Apple. Med omvänd ingenjörskonst har han, och några andra, återskapat Rivens datafiler och gjort det möjligt att köra spelet under Mac OS X.  
+layout:      post
+---
+
+<div class="imagezoom" style="float: right; margin: 0 0 4px 8px;">
+	<a href="/bilder/riven.jpg" title="Skärmdump från Riven på Mac OS X"><img src="/bilder/riven-thumbnail.jpg" /></a>
+</div> 
+
+[Riven X][1] är ett *strålande* projekt av *Jean-François Roy*, mjukvaruingenjör på Apple. Med omvänd ingenjörskonst har han, och några andra, återskapat [Rivens][4] datafiler och gjort det möjligt att köra spelet under Mac OS X.
+
+Riven är otvivelaktigt den bästa delen i Myst-serien, skapad av bröderna *Robyn och Rand Miller* på [Cyan Worlds][3]. Spelet släpptes 1997 för både Macintosh 8/9 och Windows XP, men uppdaterades aldrig till ett nativt OS X program. I och med Leopard på Intel-plattformen försvann Classic-miljön, vilket gjorde det omöjligt att njuta av den här klassikern på en modern maskin.
+
+När Riven släpptes bodde jag i en studentbostad på Kämnärsrätten i Lund. Jag hade ingen egen dator, utan såg spelet för första gången hemma hos en god vän. Jag minns att jag blev betagen av scenerierna. Det skulle dröja tre år innan jag hade möjlighet att spela det själv. 
+
+Jag känner mig nu nostalgisk när jag åter vandrar runt på Rivens öar. Det märks förstås att mycket vatten runnit under broarna under de tolv år som gott, men detaljrikedomen och atmosfären är fortfarande häpnadsväckande. Många av mina käraste Myst-minnen kommer just härifrån.
+
+[1]: http://www.devklog.net/rivenx/
+[2]: http://fissure.sourceforge.net/
+[3]: http://www.cyan.com/
+[4]: http://en.wikipedia.org/wiki/Riven

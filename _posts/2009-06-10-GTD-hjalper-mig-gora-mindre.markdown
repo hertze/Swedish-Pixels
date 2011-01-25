@@ -1,0 +1,23 @@
+--- 
+title:       GTD hjälper mig att göra mindre
+created_at:  2009-06-10 10:49:02.791401 +01:00
+keywords:    GTD, David Allen, livsstrategier, lifehacking
+description: GTD (Getting Things Done) är en metod utvecklad av David Allen, baserat på hans mångåriga erfarenheter som konsult i personlig produktivitet och time-management. [...] Det har hjälpt mig att -- med gott samvete -- skära ner på oviktiga stimuli och strunta i sådant som inte leder mig dit jag vill. Viktigare än att jag kan se vad jag behöver göra är att jag ser vad jag kan strunta i.  
+layout:      post
+---
+doc_prefix: c2009-06-10
+
+Jag har ett kluvet förhållningssätt till att planera mitt liv. Å ena sidan får det mig att känna mig instängd. Å andra sidan ökar det min känsla av att ha kontroll över min tillvaro. Om jag skall vara ärlig är det just bara känslan som påverkas, ty vem har *egentligen* kontroll över sitt liv? Vi är alla löv för vinden -- den vind som kan kallas ödet, slumpen, karma, den gudomliga planen, den store arkitekten, eller vad som nu håller din båt flytande.
+
+Jag arbetar till vardags som läkare och blivande psykiatriker. Jag träffar patienter, lyssnar på deras historia, ställer frågor, undersöker dem, beställer undersökningar ifrån andra, fastställer sannolika diagnoser och behandlar. Jag har nästan aldrig lyxen att göra en sak tills den är färdig innan jag börjar med nästa sak. Istället har jag ett hyfsat stort antal parallellt löpande uppgifter att lösa. Det är inte heller så lätt att avgöra *när* jag egentligen är klar med en uppgift, eftersom mina mål är svåra att definiera. *Hjälp patienten att bli så frisk som möjligt.* Är det ett konkret mål? I vart fall inte lika konkret som att tillverka en kopparspole, eller en köksstol. Allt detta gör att jag ser mig som en *knowledge worker*. Jag arbetar med information, inte saker.
+
+GTD (Getting Things Done) är [en metod utvecklad av *David Allen*][1], baserat på hans mångåriga erfarenheter som konsult i personlig produktivitet och time-management. I huvudsak är denna metod utformad för just kunskapsarbete, där man ofta behöver styra sig själv mot sina mål. I korthet är tanken att man skapar ett *pålitligt system* utanför sitt egen hjärna, där man samlar påminnelser om saker man behöver ta itu med. Detta system innehåller *allt* man behöver ordna med, stort som smått. När information tränger sig in i ens liv behöver man bestämma om det är något som måste åtgärdas med en gång. Om inte lägger man det i en inkorg för senare processande, innan det eventuellt hamnar i systemet på en lista. När man är redo att göra något tar man fram sina listor och arbetar från dem. Man separerar på så sätt planering och utförande. Ett sådant angreppsätt tvingar en att definiera och ta ställning till all information som ständigt invaderar oss -- information som till följd av sitt överflöd annars genererar stress. Det hjälper oss att prioritera och i ett lugnt skede avgöra vad som behöver göras och vad som kan ignoreras.
+
+Det är lätt att få uppfattningen att Allens metod bara riktar sig till toppar i näringslivet, som arbetar 80 timmar i veckan och nu vill ha *ännu mer* gjort. Om kan se förbi alla portföljer och kostymer ser man dock viktiga principer för vem som helst som vill ta kontroll över sitt liv. Jag drogs inte till GTD på grund av att jag arbetade ineffektivt, utan för löftet om större sinnesfrid. I [en intervju i *Wired*][2] berättar Allen att hans största mål är att ha "nothing on my mind", något jag själv strävar efter. Det är samma mål jag arbetar mot när jag uppmärksamhetsmediterar, eller ägnar mig åt andra övningar i medveten närvaro[^2]. Jag tror inte det är möjligt att ha det så hela tiden, eftersom den mänskliga hjärnan är byggd just för att ha tankar och lösa problem. Jag är emellertid övertygad om att det är en hälsosam målbild.
+
+Som helhet är Allens system oerhört komplext, mekaniskt och torrt. Jag har inte behov av allt. Jag skulle inte ens vilja ha ett liv där hela paketet vore nödvändigt. Det GTD har gett mig är en ökad medvetenhet om hur mycket bråte som flyter in i mitt liv. Det har hjälpt mig att -- med gott samvete -- skära ner på oviktiga stimuli och strunta i sådant som inte leder mig dit jag vill. Viktigare än att jag kan se vad jag behöver göra är att jag ser vad jag kan strunta i. Inte sällan hittar jag påminnelser som fermenterat flera veckor på någon lista. Oftast inser jag då att den inte var tillräckligt viktig, varefter jag stryker den och fortsätter med mitt liv.
+
+[1]: http://en.wikipedia.org/wiki/Getting_Things_Done
+[2]: http://www.wired.com/techbiz/people/magazine/15-10/ff_allen?currentPage=all
+
+[^2]: *Mindfulness* på engelska.

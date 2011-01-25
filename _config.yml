@@ -4,4 +4,5 @@ server_port: 4000
 pygments: false
 lsi: false
 permalink: /:year/:month/:title
+paginate: true
 paginate: 5
