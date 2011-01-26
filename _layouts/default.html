@@ -11,15 +11,24 @@
     <link rel="shortcut icon" href="favicon.ico">
   </head>
   <body>
-    <header>
-      
-     
+    <div id="header">
+		<ul class="menu">
+			{% if page.title %}
+				<li><a href="/">Start</a></li>
+			{% endif %}
+			{% unless page.title == 'Archive' %}
+			  <li><a href="/archive">Archive</a></li>
+			{% endunless %}
+			{% unless page.title == 'Highlights' %}
+			  <li><a href="/highlights">Highlights</a></li>
+			{% endunless %}
+		</ul>
+    </div>
     <div class="wrapper content">
       {{ content }}
     </div>
-    
-    <footer>
+    <div id="footer">
      
-    </footer>
+    </div>
   </body>
 </html>
