@@ -12,19 +12,8 @@ title: Archive
  
 <div id="archive">
 	{% for post in site.posts %}
- 		{% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-		
-		{% capture difference %}{{ post_year | minus: first_year }}{% endcapture %}
-		
-		
-		{% unless difference == '0' %}
- 			{% capture first_year %}{{ post.date | date: "%Y" }}{% endcapture %}
- 	
-			<h2>{{first_year}}</h2>
- 
-      	{% endunless %}
 
-<p><a href="{{ post.url }}">{{ post.title }}</a> <span class="archive-date">{{ post.date | date: "%b %d"  }}</span></p>
+<p><a href="{{ post.url }}">{{ post.title }}</a> <span class="archive-date">{{ post.date | date: "%b %d, %Y"  }}</span></p>
  
   {% endfor %}
 </div>
