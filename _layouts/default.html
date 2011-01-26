@@ -5,14 +5,14 @@
     <title>Swedish Pixels {% if page.title %}&mdash; {{ page.title }} {% endif %}</title>
     <meta name="description" content="">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" media="screen, projection" href="screen.css" type="text/css">
-    <link rel="stylesheet" media="print" href="print.css" type="text/css">
+    <link rel="stylesheet" media="screen, projection" href="/screen.css" type="text/css">
+    <link rel="stylesheet" media="print" href="/print.css" type="text/css">
     <link rel="alternate" type="application/atom+xml" title="Swedish Pixels" href=masterfeed.xml">
     <link rel="shortcut icon" href="favicon.ico">
   </head>
   <body>
     <div id="header">
-		<ul class="menu">
+		<ul id="menu">
 			{% if page.title %}
 				<li><a href="/">Start</a></li>
 			{% endif %}
@@ -24,11 +24,15 @@
 			{% endunless %}
 		</ul>
     </div>
-    <div class="wrapper content">
+
+ 	<div id="main" class="clearfix">
       {{ content }}
     </div>
-    <div id="footer">
-     
+    <div id="footer-wrapper" class="clearfix">
+		<div id="footer">
+     		<p>This is Swedish Pixels, a website written by Joakim Hertze. {% unless page.title == 'Archive' %}Older contents is available from the <a href="/archive">archive</a>.{% endunless %}</p>
+		</div>
     </div>
-  </body>
+
+ </body>
 </html>
