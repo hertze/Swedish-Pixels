@@ -6,7 +6,7 @@
 }
 
 body {
-	font: 110% Calisto, Georgia;
+	font: 106.25% Calisto, Georgia;
 	background: #f4f4f2;
 	color: #382e24;
 }
@@ -59,4 +59,13 @@ body {
 
 .post p {
 	margin: 1.5em 0;
+}
+
+.post h1 {
+	font-size: 2em;
+	font-weight: regular;
+}
+
+.typekit-badge {
+	display:none !important;
 }
