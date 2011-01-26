@@ -16,6 +16,7 @@ title: Archive
 		
 		{% capture difference %}{{ post_year | minus: first_year }}{% endcapture %}
 		
+		
 		{% unless difference == '0' %}
  			{% capture first_year %}{{ post.date | date: "%Y" }}{% endcapture %}
  	
