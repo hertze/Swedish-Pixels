@@ -1,0 +1,62 @@
+/* @override http://localhost:4000/screen.css */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font: 110% Calisto, Georgia;
+	background: #f4f4f2;
+	color: #382e24;
+}
+
+.clearfix:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+* html .clearfix {height: 1%;}
+
+#main {
+	width: 35em;
+	margin: 3em auto 3em auto;
+}
+
+#header {
+	width: 35em;
+	margin: 0 auto;
+	height: 50px;
+	text-align: right;
+}
+
+#footer-wrapper {
+	width: 100%;
+	background: #e5e4de;
+}
+
+#footer {
+	width: 35em;
+	margin: 0 auto;
+	padding: 1.3em 0;
+}
+
+#menu li {
+	display: inline;
+}
+
+.post {
+	margin: 3em 0;
+	line-height: 1.5em;
+}
+
+.post hr {
+	margin-top: 3em;
+}
+
+.post p {
+	margin: 1.5em 0;
+}
