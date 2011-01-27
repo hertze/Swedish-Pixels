@@ -4,22 +4,22 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tagaholic</title>
- <link href="http://tagaholic.me/atom.xml" rel="self"/>
- <link href="http://tagaholic.me/"/>
+ <title>Swedish Pixels</title>
+ <link href="http://swedishpixels.com/masterfeed.xml" rel="self"/>
+ <link href="http://swedishpixels.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://tagaholic.me/</id>
+ <id>http://swedishpixels.com/</id>
  <author>
-   <name>Gabriel Horner</name>
-   <email>gabriel.horner@gmail.com</email>
+   <name>Joakim Hertze</name>
+   <email>comments@swedishpixels.com</email>
  </author>
  
  {% for post in site.posts limit:15 %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://tagaholic.me{{ post.url }}"/>
+   <link href="http://swedishpixels.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://tagaholic.me{{ post.id }}</id>
+   <id>http://swedishpixels.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
