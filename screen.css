@@ -108,9 +108,18 @@ h2 {
 	background-color: #cbcac5;
 }
 
+.post sup, .post sub {
+	font-size: 0.8em;
+	line-height: 0;
+}
+
 a {
 	text-decoration: none;
 	color: #cf653b;
+}
+
+img {
+	border: none;
 }
 
 .typekit-badge {
