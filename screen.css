@@ -39,7 +39,7 @@ body {
 #footer {
 	width: 35em;
 	margin: 0 auto;
-	padding: 1.3em 0;
+	padding: 1.5em 0;
 	line-height: 1.5em;
 }
 
@@ -84,10 +84,6 @@ body {
 	line-height: 1.5em;
 }
 
-.post hr {
-	margin-top: 3em;
-}
-
 .post p {
 	margin: 1.5em 0;
 }
@@ -112,6 +108,7 @@ h2 {
 	border: none;
 	height: 1px;
 	background-color: #cbcac5;
+	margin-top: 3em;
 }
 
 .post sup, .post sub {
@@ -159,6 +156,7 @@ code {
 	font-size: 0.9em;
 	color: #7d776e;
 	line-height: 1.667em;
+	text-align: left;
 }
 
 .footnotes ol {
@@ -219,4 +217,15 @@ code {
 #footer #text {
 	float: right;
 	width: 27em;
+}
+
+#footer form {
+	margin: 1em 0;
+}
+
+input[name="q"] {
+	width: 15em;
+	padding: 3px;
+	border: 1px solid #cbcac5;
+	font-size: 0.8em;
 }
