@@ -16,16 +16,16 @@
   </head>
   <body>
     <div id="header">
-		<img src="/bilder/generic/logo2011.png" alt="Link to footer" title="" />
+		<a href="/"><img src="/bilder/generic/logo2011.png" alt="Link to footer" title="" /></a>
 		<ul id="menu">
 			{% if page.title %}
-				<li><a href="/">Start</a></li>
+				<li><a href="/">Front page</a></li>
 			{% endif %}
-			{% unless page.title == 'Archive' %}
-			  <li><a href="/archive">Archive</a></li>
-			{% endunless %}
 			{% unless page.title == 'Highlights' %}
 			  <li><a href="/highlights">Highlights</a></li>
+			{% endunless %}
+			{% unless page.title == 'Archive' %}
+			  <li><a href="/archive">Archive</a></li>
 			{% endunless %}
 		</ul>
     </div>
