@@ -128,6 +128,29 @@ img {
 	border: none;
 }
 
+pre {
+	margin: 1.5em 0 1.5em 1.5em;
+	white-space: pre; /* CSS2 */
+	white-space: -moz-pre-wrap; /* Mozilla */
+	white-space: -hp-pre-wrap; /* HP printers */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: pre-wrap; /* CSS 2.1 */
+	white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+	word-wrap: break-word; /* IE */
+}
+
+code { 
+	font: 0.8em/1.875 "Monaco", Courier, mono;
+	color: #5c5751;
+}
+
+.post blockquote {
+	font-size: 0.9em;
+	line-height: 1.667em;
+	margin: 1.667em 0 1.667em 1.667em;
+}
+
 .typekit-badge {
 	display:none !important;
 }
