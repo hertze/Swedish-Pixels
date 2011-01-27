@@ -27,7 +27,7 @@ body {
 
 #main {
 	width: 35em;
-	margin: 3em auto 3em auto;
+	margin: 6em auto 1.5em auto;
 }
 
 #header {
@@ -57,7 +57,7 @@ body {
 
 #menu {
 	float: right;
-	margin: 42px 7px 15px 15px;
+	margin: 42px 8px 15px 15px;
 	font: 14px/15px Helvetica, Arial, san-serif;
 }
 
