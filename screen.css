@@ -229,3 +229,8 @@ input[name="q"] {
 	border: 1px solid #cbcac5;
 	font-size: 0.8em;
 }
+
+.caption {
+	font-style: italic;
+	color: #7d776e;
+}
