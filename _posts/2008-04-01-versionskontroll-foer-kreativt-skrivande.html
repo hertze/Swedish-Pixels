@@ -1,0 +1,30 @@
+--- 
+title:      Versionskontroll för kreativt skrivande
+created_at: 2008-04-01 08:35:07.791401 +01:00
+keywords:   
+description: Joakim Hertze skriver på webben
+layout:     post
+---
+
+	<p>Låt oss säga att du arbetar med en längre novell. Du har skrivit färdigt första utkastet, du har låtit det vila någon vecka i skrivbordslådan och sitter nu och går igenom din text. Vore det inte bättre att använda sig av första person, tänker du och ägnar några timmar åt att göra ändringar. Du skriver ut texten igen och inser att du gjort ett stort misstag. Texten har blivit <em>oläslig</em>. Vad tar du dig till? Om du har ägnat dig åt versionskontroll är det nu en smal sak att återgå till din tidigare version. Om du inte har gjort det behöver du ägna ett par timmar åt att ändra tillbaka din text. Det senare har hänt mig vid ett antal tillfällen.</p>
+
+
+<div style="float: right; margin: 0 0 0 10px;" class="imagezoom">
+	<a href="/bilder/30.jpg" title="ZigVersions huvudfönster."><img src="/bilder/30t.jpg" alt="ZigVersions huvudfönster" title="ZigVersions huvudfönster. Till höger syns repositoriet, representerat som en mapphierarki. Till vänster syns versionshistoriken för en av mapparna." /></a>
+</div>
+
+	<p>Hur kan man gå tillväga för att spara versioner av sina dokument? Ett sätt vore att helt enkelt spara olika versioner som separata filer i en mapp på hårddisken. Metoden är enkel, fungerar med samtliga ordbehandlare och texteditorer och innehåller en enkel riskspridning. Med det senare avser jag att du har äldre fungerande kopior att återgå till om den fil du arbetar med blir korrupt.</p>
+
+	<p>En del ordbehandlingsprogram, som Word och Apple Pages 08, kan också spåra ändringar i ett och samma dokument. Detta fungerar ofta väl och det är lätt att se och jämföra versioner av sin text. Nackdelen är att man lägger alla sina ägg i samma korg. Om dokumentet blir korrumperat (vilket ju händer åtminstone i Word) förlorar man alla sina versioner. Det gäller då att man har ett parallellt system för säkerhetskopior på plats.</p>
+
+	<div style="float: right; margin: 10px 0 0 10px;" class="imagezoom">
+		<a href="/bilder/29.jpg" title="Två texter jämförs."><img src="/bilder/29t.jpg" alt="Zigversions diff-fönster" title="Två versioner av samma textfil jämförs." /></a>
+	</div>
+	
+	<p>En tredje metod är stället att använda programvara som sköter versionskontrollen <em>utanför</em> dokumentet i fråga. Detta kan ses som en kombination av de båda föregående metoderna &#8212; åtminstone om man använder rena textfiler (se nedan). Det finns ett flertal olika system för sådan versionskontroll, där <a href="http://www.nongnu.org/cvs/"><strong><span class="caps">CVS</span></strong></a>, <a href="http://subversion.tigris.org/"><strong>Subversion</strong></a> och <a href="http://git.or.cz/"><strong><span class="caps">GIT</span></strong></a> är tre vanliga alternativ med öppen källkod. Samtliga är främst utvecklade för författare av mjukvarukod, men fungerar även till andra syften. Jag använder själv Subversion för att hålla reda på mina texter.</p>
+
+	<p>Subversion är en mjukvara som finns för alla vanliga datorplattformar (Windows, Mac OS X, Linux). Principen är att man skapar ett repositorium, där man checkar in sina filer. Varje gång man vill arbeta med ett dokument checkar man ut en arbetskopia, gör sina ändringar och checkar sedan in den igen, tillsammans med en kommentar. Subversion håller sedan reda på alla ändringar som gjorts. Om flera författare samtidigt arbetar på samma text går det att smälta samman alla arbetskopiorna till en fil vid incheckningen. Det är då också lätt att se vem som gjort olika ändringar och när de skett.</p>
+
+	<p>Om man arbetar med rena textfiler kan man enkelt jämföra versioner av ett dokument. Om man istället använder <span class="caps">RTF</span>-filer, eller binära filer, kan man åtminstone se kommentarerna man lämnat vid varje incheckning. Det är dessutom en smal sak att exportera en tidigare version av sitt dokument.</p>
+
+	<p>Är man en hårdkokt datornörd använder man förmodligen Subversion från kommandotolken, men själv använder jag <a href="http://zigversion.com/"><strong>ZigVersion</strong></a>, en grafisk klient till Mac OS X. Mitt repositorium finns på mitt webbhotell, men det går lika bra att skapa ett lokalt sådant på hårddisken. Fördelen med det förra är att man får en fjärran belägen säkerhetskopia på köpet.</p>
