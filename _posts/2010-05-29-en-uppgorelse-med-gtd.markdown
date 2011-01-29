@@ -3,7 +3,7 @@ title: En uppgörelse med GTD
 layout: post
 ---
 
-<p><img src="/bilder/david_allen.jpg" alt="David Allen" title="david_allen.jpg" border="0" width="595" height="329" /><span class="caption">Litar du på den här mannen? Foto: <a href="http://www.flickr.com/photos/scobleizer/3348236467/">Robert Scoble</a></span></p>
+<p><img src="http://swedishpixels.com/bilder/david_allen.jpg" alt="David Allen" title="david_allen.jpg" border="0" width="595" height="329" /><span class="caption">Litar du på den här mannen? Foto: <a href="http://www.flickr.com/photos/scobleizer/3348236467/">Robert Scoble</a></span></p>
 
 Jag har en hatkärlek till GTD (Getting Things Done), [David Allens system för personlig produktivitet][3]. Jag försökte ursprungligen anamma metoden i hopp om att uppnå den utlovade friheten från stress och har under flera års tid hoppat på vagnen, fallit av den och hoppat på igen. Ända sedan jag först läste Allens första bok, *Getting Things Done*, har något känts fel, en liten tagg som suttit i mitt sinne och skavt och irriterat. När jag nu ägnade tid åt att läsa om Allens uppföljande bok, [Making It All Work: Winning at the Game of Work and the Business of Life][1] fick jag äntligen grepp om vad det är som är skevt. Jag insåg att GTD förmodligen inte lever upp till löftet om ett bättre liv, utan till och med kan göra tillvaron sämre.
 

@@ -3,7 +3,7 @@ title: Ulysses 2.0 — början på något nytt
 layout: post
 ---
 
-<img src="/bilder/ulysses-2.jpg" alt="ulysses-2.jpg" border="0" width="220" height="122" style="float: right; margin: 4px 0 8px 8px;" />
+<img src="http://swedishpixels.com/bilder/ulysses-2.jpg" alt="ulysses-2.jpg" border="0" width="220" height="122" style="float: right; margin: 4px 0 8px 8px;" />
 Sex år har gått sedan *Blue-Tech* släppte Ulysses 1.0. Sedan dess har marknaden översvämmats av mjukvara riktade mot kreativt skrivande. Den starkast lysande stjärnan är framgångssagan [*Scrivener*][3], som mångt och mycket fötts ur frustration över Ulysses upplevda tillkortakommanden.
 
 Sex år är lång tid i den digitala världen. För två veckor sedan avslutade [Ulysses 2][6] sin betaperiod och släpptes till allmänheten. Jag har hjälpt till att betatesta och har även översatt det till svenska. Även om programmet i sig innehåller en lång rad förbättringar är det mest intressanta vad som hänt med företaget bakom. Blue-Tech har nu bytt namn till [*The Soulmen*][2] och [de har antagit en ny strategi][1], baserad på ökad transparens och kommunikation:

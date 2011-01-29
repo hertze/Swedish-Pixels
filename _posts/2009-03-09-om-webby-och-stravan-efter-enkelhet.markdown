@@ -9,7 +9,7 @@ doc_prefix: c2009-03-09
 
 För en tid sedan vädrade jag [mina funderingar][3] kring framtiden för min blogg. Jag var innerligt trött på mitt publiceringssystem och det underhåll som följde med det. Jag hade egentligen tänkt överlägga länge och väl, men plötsligt hade jag byggt om alltihop. Det fanns en viss tillfredsställelse i det.
 
-<img src="/bilder/blogfolder.jpg" style="float: right; margin: 0 0 4px 8px;" />
+<img src="http://swedishpixels.com/bilder/blogfolder.jpg" style="float: right; margin: 0 0 4px 8px;" />
 
 Jag använder nu inte längre [TextPattern][2], utan alla sidor skapas som statiska XHTML-filer på min hårddisk. Dessa sidor synkroniseras sedan med min webbserver. Jag skriver rena textdokument uppmärkta med [Markdown][7] och låter sedan [Webby][1] sätta samman de sidor du ser nu. Den stora fördelen med detta är att jag alltid har en lokal säkerhetskopia, som är underkastad revisionskontroll[^2] och som är sökbar via [Spotlight][5]. Jag kände mig egentligen aldrig bekväm med att hantera en  MySQL-databas på en server i USA. 
 

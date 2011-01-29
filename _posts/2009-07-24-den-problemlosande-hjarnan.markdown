@@ -3,7 +3,7 @@ title: Den problemlösande hjärnan
 layout: post
 ---
 
-<p><img src="/bilder/hulk.jpg" alt="hulk.jpg" border="0" width="590" height="290" />
+<p><img src="http://swedishpixels.com/bilder/hulk.jpg" alt="hulk.jpg" border="0" width="590" height="290" />
 
 <span class="caption" xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/eneas/2540708438/">Foto: <a rel="cc:attributionURL" href="http://www.flickr.com/photos/eneas/">http://www.flickr.com/photos/eneas/</a> / <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></span>
 </p>

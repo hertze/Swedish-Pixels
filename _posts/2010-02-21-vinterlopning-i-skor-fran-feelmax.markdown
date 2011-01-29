@@ -3,7 +3,7 @@ title: Vinterlöpning i skor från Feelmax
 layout: post
 ---
 
-<img src="/bilder/FeelMax_Niesa.jpg" alt="FeelMax Panka" title="FeelMax_Niesa.jpg" width="590" height="337" />
+<img src="http://swedishpixels.com/bilder/FeelMax_Niesa.jpg" alt="FeelMax Panka" title="FeelMax_Niesa.jpg" width="590" height="337" />
 
 När höstrusken drog in över Skåne blev det obehagligt att springa i mina Vibrams. Tyget mellan tårna och på fotryggen absorberade iskallt regnvatten och fötterna domnade bort i kylan. Jag hade planerat att köpa ett par *Vibram Fivefingers Surge*, men de var slut hos återförsäljaren.[^1] Istället beställde jag ett par [Feelmax Panka][1], det finska alternativet till minimal sko.
 

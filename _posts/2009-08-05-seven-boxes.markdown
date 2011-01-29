@@ -3,7 +3,7 @@ title: Seven boxes
 layout: post
 ---
 
-<p><img src="/bilder/7boxes-a.jpg" alt="7boxes-a.jpg" border="0" width="590" height="298" /><span class="caption" xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/deiby/2543536934/">Foto: <a rel="cc:attributionURL" href="http://www.flickr.com/photos/deiby/">http://www.flickr.com/photos/deiby/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></span></p>
+<p><img src="http://swedishpixels.com/bilder/7boxes-a.jpg" alt="7boxes-a.jpg" border="0" width="590" height="298" /><span class="caption" xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/deiby/2543536934/">Foto: <a rel="cc:attributionURL" href="http://www.flickr.com/photos/deiby/">http://www.flickr.com/photos/deiby/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></span></p>
 
 Emellanåt upplever jag att världen försöker trycka ner information i halsen på mig. Vid sidan om all elektronisk information väller det in papper så gått som dagligen. Det är kontoutdrag, lönebesked, besked från Försäkringskassa och information som har med min profession att göra. Hur skall man undvika att drunkna i floden av papper?
 

@@ -3,7 +3,7 @@ title: Att springa i Vibram Five Fingers
 layout: post
 ---
 
-<img src="/bilder/DSC0073.jpg" alt="_DSC0073.jpg" border="0" width="580" height="266" />
+<img src="http://swedishpixels.com/bilder/DSC0073.jpg" alt="_DSC0073.jpg" border="0" width="580" height="266" />
 
 Mina *Asics Pirahna* går mot sitt slut och jag har bekymmer att hitta bra ersättare. Löplabbet i Malmö har ett obefintligt utbud av lätta *racing flats*, utan uppbyggd häl. Jag chansade i våras på ett par ilsket gula [*Adidas Adizero Adios*][3], den modell som Haile Gebrsellasie sprang i när han slog maratonrekord i Berlin, men de visade sig vara alltför klumpiga. Jag kände mig som Frankensteins monster och såg ut som ett rapsfält.
 

@@ -3,7 +3,7 @@ layout: post
 title: Running in Vibram Fivefingers Speed
 ---
 
-<img src="/bilder/vibram-speed.jpeg" alt="vibram-speed.jpeg" title="vibram-speed.jpeg" border="0" width="595" height="355" />
+<img src="http://swedishpixels.com/bilder/vibram-speed.jpeg" alt="vibram-speed.jpeg" title="vibram-speed.jpeg" border="0" width="595" height="355" />
 
 I've been running exclusively in Vibram Fivefingers for more then a year and I now average 36 km (22.4 miles) a week. I've done most of this running in the Sprint model, but last month Vibram released a new model, [*Speed*][1], in Europe.[^1]
 

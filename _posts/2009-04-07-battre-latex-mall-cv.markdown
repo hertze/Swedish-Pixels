@@ -7,7 +7,7 @@ layout:      post
 ---
 
 <div class="imagezoom" style="float: right; margin: 0 0 4px 8px;">
-	<a href="/bilder/cv-mall-2009.jpg" title="Renderad PDF"><img src="/bilder/cv-mall-2009-thumbnail.jpg" /></a>
+	<a href="http://swedishpixels.com/bilder/cv-mall-2009.jpg" title="Renderad PDF"><img src="http://swedishpixels.com/bilder/cv-mall-2009-thumbnail.jpg" /></a>
 </div> 
 
 När jag kollar besöksstatistiken ser jag att den här två år gamla [LaTeX-mallen för CV][1] fortfarande laddas ner en hel del. Jag får lite dåligt samvete varje gång jag ser det, eftersom jag själv inte längre använder den.

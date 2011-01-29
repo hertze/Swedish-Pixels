@@ -3,7 +3,7 @@ title: Springer man bättre i Vibram Five Fingers Sprint?
 layout: post
 ---
 
-<img src="/bilder/VFF-sprint.jpg" alt="VFF-sprint.jpg" border="0" width="590" height="236" />
+<img src="http://swedishpixels.com/bilder/VFF-sprint.jpg" alt="VFF-sprint.jpg" border="0" width="590" height="236" />
 
 Jag har helt gått över till att springa i Vibram Five Fingers och det känns skönt att lämna den övriga skoindustrin bakom sig. Eftersom det började kännas ofräscht att promenera i spring-svettiga skor har jag skaffat mig ett andra par.
 

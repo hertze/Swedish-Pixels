@@ -17,7 +17,7 @@ Den 1 juli släppte _Blue-Tec_ [Ulysses 1.6][1], efter ett par månader i sluten
 - **Fullskärmsläge**, ej att förväxla med konsolläge.
 - **Förbättrad LaTeX-export.**
 
-<img src="/bilder/31.jpg" style="float:right; margin: 0 0 4px 8px;" alt="Ulysses" /> 
+<img src="http://swedishpixels.com/bilder/31.jpg" style="float:right; margin: 0 0 4px 8px;" alt="Ulysses" /> 
 
 Jag är ett stort fan av Ulysses och har varit så ända sedan jag upptäckte programmet för två år sedan. Med version 1.6 har det blivit ännu skarpare, men det finns en del bekymmer kvar att ta itu med. 
 

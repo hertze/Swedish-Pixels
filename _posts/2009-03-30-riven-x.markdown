@@ -7,7 +7,7 @@ layout:      post
 ---
 
 <div class="imagezoom" style="float: right; margin: 0 0 4px 8px;">
-	<a href="/bilder/riven.jpg" title="Skärmdump från Riven på Mac OS X"><img src="/bilder/riven-thumbnail.jpg" /></a>
+	<a href="http://swedishpixels.com/bilder/riven.jpg" title="Skärmdump från Riven på Mac OS X"><img src="http://swedishpixels.com/bilder/riven-thumbnail.jpg" /></a>
 </div> 
 
 [Riven X][1] är ett *strålande* projekt av *Jean-François Roy*, mjukvaruingenjör på Apple. Med omvänd ingenjörskonst har han, och några andra, återskapat [Rivens][4] datafiler och gjort det möjligt att köra spelet under Mac OS X.

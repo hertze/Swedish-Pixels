@@ -3,7 +3,7 @@ layout: post
 title: Capture Perfect
 ---
 
-<div class="imagezoom" ><p><a href="/bilder/things-free.png" title="Things Free"><img src="/bilder/things-free-600.png" /></a></p></div>
+<div class="imagezoom" ><p><a href="http://swedishpixels.com/bilder/things-free.png" title="Things Free"><img src="http://swedishpixels.com/bilder/things-free-600.png" /></a></p></div>
 
 All dedicated GTD-apps I've tried (most notably [Things](http://culturedcode.com/things) and [Omnifocus](http://omnigroup.com/omnifocus)) share the same flaw: they treat the inbox as just another list.
 

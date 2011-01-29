@@ -36,4 +36,4 @@ Jag inser att mitt arbetssätt kan framstå som onödigt komplicerat och en smul
 [3]: http://www.blue-tec.com/ulysses/
 [4]: http://www.apple.com/iwork/pages/
 [5]: http://fletcherpenney.net/multimarkdown/
-[6]: /bilder/textmate-preview.jpg
+[6]: http://swedishpixels.com/bilder/textmate-preview.jpg

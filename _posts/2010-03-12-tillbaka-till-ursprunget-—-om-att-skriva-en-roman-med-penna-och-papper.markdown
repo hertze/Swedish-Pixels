@@ -3,7 +3,7 @@ title: Tillbaka till ursprunget — om att skriva en roman med penna och papper
 layout: post
 ---
 
-<p><img src="/bilder/pen_n_paper (2).jpg" alt="pen_n_paper (2).jpg" title="pen_n_paper (2).jpg" border="0" width="590" height="275" /></p>
+<p><img src="http://swedishpixels.com/bilder/pen_n_paper (2).jpg" alt="pen_n_paper (2).jpg" title="pen_n_paper (2).jpg" border="0" width="590" height="275" /></p>
 
 Efter ett flerårigt sökande efter den perfekta texteditorn för att skriva prosa går jag nu tillbaka till grunden -- penna och papper.
 

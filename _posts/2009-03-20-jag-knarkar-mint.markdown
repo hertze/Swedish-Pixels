@@ -7,7 +7,7 @@ layout:      post
 ---
 
 <div class="imagezoom" style="float: right; margin: 0 0 4px 8px;">
-<a href="/bilder/mint.jpg" title="Panelfrossa"><img src="/bilder/mint_thumbnail.jpg" /></a>
+<a href="http://swedishpixels.com/bilder/mint.jpg" title="Panelfrossa"><img src="http://swedishpixels.com/bilder/mint_thumbnail.jpg" /></a>
 </div> 
 
 De sista dagarna har jag blivit helt beroende av att kolla besöksstatistiken på Swedish Pixels. Orsaken till detta är [Shaun Inmans][1] utsökta spårningsprogram [Mint][2]. Det kan hålla mig sysselsatt i timmar.

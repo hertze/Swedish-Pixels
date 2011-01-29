@@ -20,7 +20,7 @@ Det är också betydligt svårare att hålla balansen i dämpade skor. Det är s
 Var hittar man en sko som Romanov och Pirie förespråkar? Mitt bästa tips är att leta efter en lätt tävlingssko, på engelska *racing flats*, i en bättre sorterad löparaffär.
 
 <div class="imagezoom" style="float: right; margin: 0 0 4px 8px;">
-	<a href="/bilder/shoes.jpg" title="Uppifrån och ner: Asics Gel Kayano, Puma Complete Eutopia och Asica Pirahna"><img src="/bilder/shoes-thumbnail.jpg" alt="Mina skor"/></a>
+	<a href="http://swedishpixels.com/bilder/shoes.jpg" title="Uppifrån och ner: Asics Gel Kayano, Puma Complete Eutopia och Asica Pirahna"><img src="http://swedishpixels.com/bilder/shoes-thumbnail.jpg" alt="Mina skor"/></a>
 </div> 
 
 När jag hälrullade blev jag rekommenderad ett par [Asics Gel Kayano][2], efter en videoanalys av min löpning. När jag bestämt mig för att byta löpteknik gick jag in på *Löplabbet* i Malmö och berättade att jag ville ha en sko helt utan dämpning. Försäljaren stirrade på mig som om jag vore galen. Han fick mig att tveka till den grad att jag gick med på en kompromiss i form av [Puma Complete Eutopia][3]. Trots att denna sko var lättare än mina gamla Asics var de ändå för klumpiga. Jag åkte tillbaka till Löplabbet och stod på mig. Den här gången kom jag hem med ett par [Asics Pirahna][1], vilket var en fullträff. Denna sko är extremt lätt och ger en underbar kontakt med asfalten. Om jag drämmer i fötterna får hårt märker jag det omedelbart, vilket är pedagogiskt. Jag har sprungit med dem på asfalt i snart ett år utan obehag. Eller -- åtminstone inte med mer obehag än jag haft av dämpade skor.

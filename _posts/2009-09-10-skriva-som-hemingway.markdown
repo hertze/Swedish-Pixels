@@ -3,7 +3,7 @@ title: Skriva som Hemingway
 layout: post
 ---
 
-<p><img src="/bilder/hemingway-book.jpg" alt="Sida från Movable Feast.jpg" border="0" width="590" height="314" /><span class="caption" >Foto: <a href="http://www.flickr.com/photos/robaround/3537046380/">Robert Burdock</a></span></p>
+<p><img src="http://swedishpixels.com/bilder/hemingway-book.jpg" alt="Sida från Movable Feast.jpg" border="0" width="590" height="314" /><span class="caption" >Foto: <a href="http://www.flickr.com/photos/robaround/3537046380/">Robert Burdock</a></span></p>
 
 Jag har en gång tidigare gett mig på att skriva en roman. Jag var då nybliven småbarnsförälder, arbetade heltid och hade insett att jag aldrig skulle få lyxen att skriva sammanhängande varje dag. För att optimalt nyttja de små pauser som uppstod antog jag att det behövdes en detaljerad planering för romanen. Om jag nu bara hade en halvtimme på mig att skapa något storslaget ville jag inte lägga tid på att tänka ut *vad* jag skulle skriva, utan faktiskt få ner ord på hårddisken. Jag la ner mycket möda på en detaljerad disposition, där alla scener var utmejslade i detalj och ordnade i kapitel.
 Jag skrev färdigt romanen under loppet av ett och ett halv år, mestadels på kvällar och helger. Den blev usel. Förbluffande usel, faktiskt. All planering hade förbrukat min kreativitet och lust. Berättandet blev torrt och mekaniskt, prosan osammanhängande och oinspirerad.
