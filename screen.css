@@ -84,6 +84,8 @@ body {
 	line-height: 1.5em;
 }
 
+.archive { line-height: 1.5em; }
+
 .post p {
 	margin: 1.5em 0;
 }
@@ -191,7 +193,7 @@ code {
 }
 
 
-#archive ul {
+.archive ul {
 	list-style-type: none;
 	margin: 1.5em 0 1.5em 1.5em;
 }
@@ -233,4 +235,13 @@ input[name="q"] {
 .caption {
 	font-style: italic;
 	color: #7d776e;
+}
+
+.archive ul li {
+	margin: 0.8em 0;
+}
+
+.archive ul.archivelist li {
+	margin: -0.5em 0;
+	padding: 0;
 }

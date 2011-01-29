@@ -1,27 +1,21 @@
 ---
-layout: default
+layout: archive
 title: Archive
 ---
 
 <h1>Archive</h1>
 
-<h2 id="intro">The list of all {{ site.posts.size }} archived posts.</h2>
+<p>This is the list of all {{ site.posts.size }} archived posts. You can always use <a href="#cse-search-box">the search field</a> at the bottom of any page. Also, if you&#8217;re not quite sure where to start, I would recommend having a look at <a href="/highlights">the highlights</a>.</p>
 
 {% capture last_month %}{% endcapture %}
-
-<div id="archive">
 	
 	{% for post in site.posts %}
 		{% capture post_month %}{{ post.date | date: "%Y" }}{% endcapture %}
 	    {% if  post_month != last_month %}
 	        {% if last_month != '' %}</ul>{% endif %}
 	        <h2>{{ post.date | date: "%Y" }}</h2>
-	        <ul>
+	        <ul class="archivelist">
 	        {% assign last_month = post_month %}
 	    {% endif %}
-	    <p><a href="{{ post.url }}">{{ post.title }}</a> <span class="archive-date">{{ post.date | date: "%b %d"  }}</span></p>
-	
- 
+	    <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="archive-date">{{ post.date | date: "%b %d"  }}</span></li>
   	{% endfor %}
-	
-</div>
