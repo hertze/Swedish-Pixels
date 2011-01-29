@@ -1,0 +1,28 @@
+.dsq-post-area {
+	font-size: 1.2em;
+}
+
+.dsq-post-area h3 {
+	font-size: 1.5em;
+	font-weight: normal;
+	font-style: normal;
+	margin: 1em 0;
+}
+
+#dsq-comments-title h3 {
+	font-size: 2em;
+	font-weight: normal;
+	font-style: normal;
+	margin: 1.5em 0 0 0;
+}
+
+#dsq-comments {
+	font-size: 1.3em;
+	line-height: 2em;
+	color: #7d776e;
+}
+
+.dsq-options {
+	display: none;
+	visibility: hidden;
+}
