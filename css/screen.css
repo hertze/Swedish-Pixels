@@ -60,6 +60,7 @@ body {
 #header img {
 	border: none;
 	margin-top: -30px;
+	margin-right: -10px;
 	float: right;
 }
 
@@ -214,8 +215,8 @@ code {
 }
 
 #footer #bild img {
-	margin-left: -15px;
-	margin-top: -40px;
+	margin-left: -40px;
+	margin-top: -50px;
 }
 
 #footer #text {
