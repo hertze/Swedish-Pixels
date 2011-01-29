@@ -17,7 +17,7 @@ I want a free-form digital inbox, where I can put *all kinds* of digital documen
 
 I suppose Evernote is a pretty close approximation of what I want. It accepts most types of documents, is pretty free-form and is universally accessible. Personally I can't stand the bloated behemoth that is Evernote, though.
 
-<img src="http://swedishpixels.com/wp-content/uploads/2010/10/mail-inbox.jpeg" alt="mail-inbox.jpeg" title="mail-inbox.jpeg" border="0" width="210" height="150" style="float: right; margin: 0 0 5px 5px;"/> 
+<img src="http://swedishpixels.com/bilder/mail-inbox.jpeg" alt="mail-inbox.jpeg" title="mail-inbox.jpeg" border="0" width="210" height="150" style="float: right; margin: 0 0 5px 5px;"/> 
 
 Today I use Apple Mail as a general-purpose inbox. Yes, I know. Mail. But in my defense I must say it works pretty well. All mail sent to a particular address is filtered to a specific IMAP folder directly on the mail server. This way I won't see them in the mail inbox on my iPhone.
 
