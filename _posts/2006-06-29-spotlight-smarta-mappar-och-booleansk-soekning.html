@@ -1,0 +1,24 @@
+--- 
+title:      Spotlight, smarta mappar och booleansk sökning
+created_at: 2006-06-29 18:34:00.791401 +01:00
+keywords:   mac os,tips
+description: Joakim Hertze skriver på webben
+layout:     post
+---
+
+	<p><img src="/bilder/15.jpg" style="float:right; margin:4px 0 4px 8px;" title="Bild på smarta mappar" alt="Bild på smarta mappar" width="190" height="174" /> För att bättre organisera på mitt skrivande fick jag för mig att skapa en så kallad <a href="http://www.apple.com/macosx/features/finder/"><em>smart mapp</em></a>, vilken automatiskt skulle plocka fram de ordbehandlingsdokument jag skapat de senaste veckorna.  I Finder tryckte jag <strong>⌘(kringla) + F</strong>, valde <strong>&#8221;Typ&#8221;</strong> i första rullisten, <strong>&#8221;Andra&#8230;&#8221;</strong> i den andra och bläddrade mig sedan ner till <strong>&#8221;Microsoft Word-dokument&#8221;</strong>. På den andra raden valde jag <strong>&#8221;Senast ändrad&#8221;</strong> och <strong>&#8221;Den här månaden&#8221;</strong>. Voila! Som genom ett trollslag fick jag upp min senaste blygsamma produktion.</p>
+
+	<p>Emellertid använder jag inte enbart Word när jag skriver, utan även Apples egna Pages. Man tycker ju att det inte borde vara särskilt komplicerat att komplettera sökningen så att den inkludera dokument skapade även i denna applikation, men tji fick man. Av någon outgrundlig anledning har Apple nämligen skippat det här med <a href="http://en.wikipedia.org/wiki/Boolean_logic"><em>booleansk sökning</em></a> i Spotlights allmänna gränssnitt.</p>
+
+	<p>Av pedagogiska skäl ersätter vi för en stund Pages-dokument, med Excel-dokument. Om man då använder sökformulärets rullister för att pussla ihop ledet <strong>&#8221;Typ&#8221;</strong> + <strong>&#8221;Microsoft Word-dokument&#8221;</strong>, trycker på plusknappen och skapar ledet <strong>&#8221;Typ&#8221;</strong> + <strong>&#8221;Microsoft Excel-dokument&#8221;</strong> så har man byggt ekvivalenten till frågan &#8221;Filer som är av typen Microsoft Word <em>och</em> Microsoft Excel&#8221;. Detta ger förstås inte några träffar då filer inte kan vara av båda typerna samtidigt.<br />
+Jag ville istället ha en smart mapp med kriteriet &#8221;Filer av typen Word-dokument, <em>eller</em> filer av typen Microsoft Excel-dokument&#8221;. Just <em>eller</em> är den springande punkten här &#8212; <span class="caps">OSX</span> publikfriande sökgränssnitt möjliggör nämligen bara frågor där leden sammanbinds på ett sätt som motsvarar den booleanska operatorn &#8221;och/and&#8221;.</p>
+
+	<p>Lyckligtvis finns det ett sätt att komma runt detta; man kan nämligen ange sin fråga i så kallat &#8221;råformat&#8221;. Om man i första rullisten väljer <strong>&#8221;Annat..&#8221;</strong>, bläddra sig ner till <strong>&#8221;Råsökning&#8221;</strong> och sedan skriver <code> (kMDItemKind = '*Microsoft Word-dokument*'cd) || (kMDItemKind = '*Microsoft Excel-dokument*'cd) </code> i textrutan som dyker upp märker man att man har åstadkommit precis det som tidigare ej var möjligt. Med hjälp av <em>eller</em> får man nu upp alla filer som är antingen av Word-, eller Exceltyp.</p>
+
+	<p>Det krångliga med denna strategi är förstås att veta vad man skall ange som söksträng. Eftersom jag inte är överdrivet verserad i att extrahera metadata ur filtyper valde jag en enklare, om än mindre elegant, väg. Jag skapade två smarta mappar, som var för sig letade upp Word-filer, respektive Excel-filer. Jag sparade ner dessa sökningar och letade sedan upp dem i Finder. Genom att ctrl-klicka på dessa filer och välja &#8221;Visa info&#8221; fick jag fram de söksträngar som dessa mappar byggde på. Därefter var det bara att klippa och klistra ihop dem med en booleansk operator &#8212; i det här fallet &#8221;||&#8221; (or/eller) &#8212; och klistra in dem som &#8221;råsökning&#8221; enligt ovan.</p>
+
+	<p>Hur blev det då med mina Pages-dokument? Jo, det visade sig att det inte existerar en dokument-typ för detta filformat (därav Excel som tillfällig <em>stand-in</em>), men istället var det möjligt att utnyttja filändelsen &#8221;.pages&#8221;. Min sökterm ser då ut så här:</p>
+
+	<p><code> (kMDItemKind = '*Microsoft Word-dokument*'cd) || (kMDItemFSName = '*.pages'cd) </code></p>
+
+	<p>&#8230; vilket fungerar alldeles utmärkt. Vill man läsa mer om det här har Apple <a href="http://developer.apple.com/macosx/spotlight.html">en del resurser</a> att tillgå.</p>
