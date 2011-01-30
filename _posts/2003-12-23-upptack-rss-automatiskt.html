@@ -1,0 +1,11 @@
+--- 
+title:      Upptäck RSS-flöden automatiskt
+created_at: 2003-12-22 20:26:22.791401 +01:00
+keywords:   RSS,bloggteknik
+description: Joakim Hertze skriver på webben
+layout:     post
+---
+
+<p>Jag kände att jag måste dela med mig av dagens uppenbarelse, även om det kanske är gamla nyheter för de flesta av er. När man surfar i <em>FeedDemon</em> och andra <span class="caps"><span class="caps">RSS</span></span>-läsare finns det en trevlig funktion som automatiskt upptäcker <span class="caps"><span class="caps">RSS</span></span>-flöden på de sidor man tittar på. Jag har själv undrat hur man går tillväga för att detta skall fungera med ens egna webbsidor och idag fick jag svaret. Man länkar helt enkelt till sitt <span class="caps"><span class="caps">RSS</span></span>-flöde i <code>HEAD</code>-sektionen av sin <span class="caps"><span class="caps">HTML</span></span>-sida på följande sätt:</p>
+
+	<p><code>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; title=&quot;RSS&quot; href=&quot;url till RSS-sidan&quot; /&gt;</code></p>
