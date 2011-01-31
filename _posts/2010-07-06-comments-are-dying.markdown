@@ -5,7 +5,7 @@ layout: post
 
 I decided to remove comments from Swedish Pixels for the foreseeable future. Having a website in Swedish, about obscure topics such as running, life style design and other miscellany never attracted that much discussion anyway.
 
-John Gruber recently had to--once more--[defend his decision to not offer comments on Daring Fireball][1]. He claims they don't fit with the vision he has for his site. Venerable gentlemen of the internet, such as [John Hicks][3], [Derek Powazek][2] and [Shaun Blanc][4] joined the discussion. They explained how omitting comments changes the tone of a website and makes it a more personal outlet. Hicks also points to the reality of pestering spam comments, an ever growing irritation.
+John Gruber recently had to--once more--[defend his decision to not offer comments on Daring Fireball][1]. He claims they don't fit with the vision he has for his site. Venerable gentlemen of the internet, such as [John Hicks][3], [Derek Powazek][2] and [Shawn Blanc][4] joined the discussion. They explained how omitting comments changes the tone of a website and makes it a more personal outlet. Hicks also points to the reality of pestering spam comments, an ever growing irritation.
 
 I find *allowing* comments makes me *want* comments, which makes me *write to attract* comments. That never ends well. Back in 2004, when a predecessor of Swedish Pixels was born, I much too often wrote inflammatory posts on controversial subjects, just to make visitors respond. I blush when I think about it.
 
