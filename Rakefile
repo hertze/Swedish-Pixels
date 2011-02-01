@@ -67,6 +67,10 @@ desc 'Generate and publish the entire site, and send out pings'
 task :publish => [:push, :sitemap, :pingomatic] do
 end
 
+desc 'Generate and publish the entire site, and send out pings'
+task :ping => [:sitemap, :pingomatic] do
+end
+
 desc 'create a new draft post'
 task :post do
   title, slug = get_title
