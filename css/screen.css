@@ -248,3 +248,12 @@ input[name="q"] {
 	margin: -0.5em 0;
 	padding: 0;
 }
+
+.fancy {
+	font-style: italic;
+	color: #a6a291;
+	font-size: 130%;
+	position: relative;
+	top: 0.15em;
+	right: 0.05em;
+}
