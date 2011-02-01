@@ -17,14 +17,14 @@ These are some of the most visited pages on Swedish Pixels, as well as a few I'm
 * [Att springa i Vibram Five Fingers](/2009/07/att-springa-i-vibram-five-fingers/)
 * [Running in Vibram Fivefingers Speed](/2010/07/running-in-vibram-fivefingers-speed/)
 
-## On personal productivity *&* peace of mind ##
+## On personal productivity <span class="fancy">&amp;</span> peace of mind ##
 
 * [En uppgörelse med GTD](/2010/05/en-uppgorelse-med-gtd/)
 * [Seven boxes](/2009/08/seven-boxes/)
 * [GTD hjälper mig göra mindre](/2009/06/GTD-hjalper-mig-gora-mindre/)
 
 
-## On writing *&* tools for writing ##
+## On writing <span class="fancy">&amp;</span> tools for writing ##
 
 * [Tillbaka till ursprunget -- om att skriva en roman med penna och papper](/2010/03/tillbaka-till-ursprunget-—-om-att-skriva-en-roman-med-penna-och-papper/)
 * [Skriva som Hemmingway](/2009/09/skriva-som-hemingway/)
