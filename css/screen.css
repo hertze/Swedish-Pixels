@@ -257,3 +257,12 @@ input[name="q"] {
 	top: 0.15em;
 	right: 0.05em;
 }
+
+.imagezoom:after {
+	content:"(Click image to enlarge)";
+	color: #83776e;
+	display: block;
+	margin-top: -1em;
+	font-style: italic;
+	font-size: 0.8em;
+}
