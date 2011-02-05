@@ -15,7 +15,7 @@ I've come to realise I don't really need a full-blown GTD-like system. I can't h
 
 I do however enjoy having a single collection point for the bits of life I like to keep track of. I enjoy having a system with alerts, that remind me of my deadlines. I enjoy having my system with me at all times, with my data close at hand.
 
-<img src="/bilder/fieldnotes.jpg" style="float: right; margin: 0 0 10px 10px;" alt="Field notes" />
+<img src="http://swedishpixels.com/bilder/fieldnotes.jpg" style="float: right; margin: 0 0 10px 10px;" alt="Field notes" />
 
 Last november I started out with the simplest rig I could think of: a Field notes ruled notebook, where I wrote reminders in one long list, as they occurred to me. Tasks with deadlines got a due date in parenthesis. When I had completed all tasks on a notebook page I crossed it out, which was very satisfying.
 
