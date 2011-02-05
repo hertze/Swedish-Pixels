@@ -1,5 +1,5 @@
 ---
-title: A peace of mind on paper
+title: Peace of mind on paper
 layout: post
 ---
 
