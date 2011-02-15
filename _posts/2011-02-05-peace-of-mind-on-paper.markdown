@@ -7,7 +7,7 @@ I promised myself I would never again write about productivity systems and todo 
 
 But I can't help myself.
 
-The last few days I've come across [reports][1] from [people][2] giving up digital productivity systems in favour of pen and paper. I tried just that only three months ago. I had grown wary of waiting for Cultured Code to deliver and I was hesitant to once more dive into Omnifocus and try to stay afloat.
+The last few days I've come across [reports][1] from [people][2] giving up digital productivity systems in favour of pen and paper. I tried just that only three months ago. I had grown weary of waiting for Cultured Code to deliver and I was hesitant to once more dive into Omnifocus and try to stay afloat.
 
 I've tried quite a few productivity systems over the years, most of them GTD in combination with digital tools. I even tried to do GTD on paper a while back, but I never enjoyed writing and rewriting all those lists. I always came back to digital.
 
