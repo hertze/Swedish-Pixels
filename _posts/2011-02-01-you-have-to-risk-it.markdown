@@ -1,5 +1,5 @@
 ---
-title: You have to risk it
+title: You Have to Risk It
 layout: post
 ---
 

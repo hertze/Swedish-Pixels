@@ -1,5 +1,5 @@
 ---
-title: The MultiMarkdown gospel
+title: The MultiMarkdown Gospel
 layout: post
 ---
 

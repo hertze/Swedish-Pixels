@@ -1,5 +1,5 @@
 ---
-title: Go easy on the planning
+title: Go Easy on the Planning
 layout: post
 ---
 

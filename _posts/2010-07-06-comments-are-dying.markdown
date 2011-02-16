@@ -1,5 +1,5 @@
 ---
-title: Comments are dying
+title: Comments are Dying
 layout: post
 ---
 

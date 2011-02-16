@@ -1,5 +1,5 @@
 ---
-title: Moving to Jekyll and GitHub pages
+title: Moving to Jekyll and GitHub Pages
 layout: post
 ---
 
