@@ -60,7 +60,7 @@ body {
 #header img {
 	border: none;
 	margin-top: -16px;
-	margin-right: -5px;
+	margin-right: 0px;
 	margin-left: 5px;
 	float: right;
 }
