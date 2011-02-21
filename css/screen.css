@@ -59,8 +59,9 @@ body {
 
 #header img {
 	border: none;
-	margin-top: -30px;
-	margin-right: -10px;
+	margin-top: -16px;
+	margin-right: -5px;
+	margin-left: 5px;
 	float: right;
 }
 
