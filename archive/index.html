@@ -8,12 +8,22 @@ title: Archive
 <p>This is the list of all {{ site.posts.size }} archived posts. You can always use <a href="#cse-search-box">the search field</a> at the bottom of any page. Also, if you&#8217;re not quite sure where to start, I would recommend having a look at <a href="/highlights">the highlights</a>.</p>
 
 {% capture last_month %}{% endcapture %}
+{% capture this_year %}{{ 'now' | date: "%Y" }}{% endcapture %}
+{% capture last_year %}{{ this_year | minus: 1 }}{% endcapture %}
 	
 	{% for post in site.posts %}
 		{% capture post_month %}{{ post.date | date: "%Y" }}{% endcapture %}
 	    {% if  post_month != last_month %}
 	        {% if last_month != '' %}</ul>{% endif %}
-	        <h2>{{ post.date | date: "%Y" }}</h2>
+				{% if  post_month == this_year %}
+					<h2>This year</h2>
+	        	{% else %}
+					{% if  post_month == last_year %}
+						<h2>Last year</h2>
+					{% else %}
+						<h2>{{ post.date | date: "%Y" }}</h2>
+					{% endif %}
+				{% endif %}
 	        <ul class="archivelist">
 	        {% assign last_month = post_month %}
 	    {% endif %}
