@@ -15,15 +15,7 @@ title: Archive
 		{% capture post_month %}{{ post.date | date: "%Y" }}{% endcapture %}
 	    {% if  post_month != last_month %}
 	        {% if last_month != '' %}</ul>{% endif %}
-				{% if  post_month == this_year %}
-					<h2>This year</h2>
-	        	{% else %}
-					{% if  post_month == last_year %}
-						<h2>Last year</h2>
-					{% else %}
-						<h2>{{ post.date | date: "%Y" }}</h2>
-					{% endif %}
-				{% endif %}
+			<h2>{{ post.date | date: "%Y" }}</h2>	
 	        <ul class="archivelist">
 	        {% assign last_month = post_month %}
 	    {% endif %}
