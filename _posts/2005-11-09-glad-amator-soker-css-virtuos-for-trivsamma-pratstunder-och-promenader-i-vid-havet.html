@@ -1,0 +1,29 @@
+--- 
+title:      Glad amatör söker CSS-virtuos för trivsamma pratstunder och promenader i vid havet
+created_at: 2005-11-09 23:34:59.791401 +01:00
+keywords:   CSS
+description: Joakim Hertze skriver på webben
+layout:     post
+---
+
+	<p>Jag försöker finna ett sätt att med hjälp av <span class="caps">CSS</span> påverka utseendet av numrerade listor lite mer fritt än vad som traditionellt verkar vara möjligt. I normalfallet har man makt över det format elementen numreras med (decimal, romerska siffror, bokstäver), samt marginaler och &#8221;padding&#8221;. Jag skulle vilja ha möjlighet att formge markören (siffran eller bokstaven) separat från själva textinnehållet i <code>&#60;li&#62;</code>-elementet.</p>
+
+	<p>När jag satt och kollade på <cite>CCS2-specificationen</cite> på <a href="http://www.w3.org/TR/REC-CSS2/generate.html#propdef-list-style">W3Cs hemsidan</a> stötte jag på ett sätt som verkade synnerligen attraktivt. Genom att använda pseudoklassen <code>:before</code> skulle man kunna skapa egna liststilar genom &#8221;markers&#8221; och &#8221;counters&#8221;. Exempelvis skulle då&#8230;</p>
+
+	<blockquote>
+		<p><code>li:before {</code><br />
+<code>display: marker;</code><br />
+<code>content: counter(mycounter, lower-roman) &#34;.&#34;;</code><br />
+<code>counter-increment: mycounter;</code><br />
+<code>}</code></p>
+	</blockquote>
+
+	<p>&#8230;ge följande lista:</p>
+
+	<blockquote>
+		<p><code>  i. This is the first item.</code><br />
+<code> ii. This is the second item.</code><br />
+<code>iii. This is the third item.</code></p>
+	</blockquote>
+
+	<p>Naturligtvis verkar inte detta fungera i någon annan webbläsare än Opera. Är det någon som mot förmodan vet något annat sätt att påverka listors utseende i lite större utsträckning. Är javascript lösningen?</p>
