@@ -25,7 +25,7 @@ body {
 
 #main {
 	width: 35em;
-	margin: 4em auto 1.5em auto;
+	margin: 3em auto 1.5em auto;
 }
 
 #header {
@@ -57,7 +57,7 @@ body {
 }
 
 #legal a {
-	color: #cf9d8a;
+	color: #849bb7;
 }
 
 #header img {
@@ -84,7 +84,7 @@ body {
 }
 
 #menu a:hover {
-	color: #424242;
+	color: #5b84b7;
 }
 
 .post {
@@ -128,7 +128,7 @@ h2 {
 
 a {
 	text-decoration: none;
-	color: #cf653b;
+	color: #5b84b7;
 }
 
 img {
