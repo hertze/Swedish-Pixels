@@ -1,3 +1,5 @@
+/* @override http://localhost:4000/css/screen.css */
+
 @import "disqus.css";
 
 * {
@@ -31,6 +33,7 @@ body {
 	margin: 30px auto 0 auto;
 	height: 70px;
 	text-align: right;
+	background: url(/bilder/generic/logo-2011-v3.png) no-repeat right;
 }
 
 #footer-wrapper {
@@ -66,8 +69,8 @@ body {
 }
 
 #menu {
-	float: left;
-	margin: 24px 0 0 0;
+	float: right;
+	margin: 44px 52px 0 0;
 	font: 14px/15px Helvetica, Arial, san-serif;
 }
 
