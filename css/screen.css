@@ -23,13 +23,13 @@ body {
 
 #main {
 	width: 35em;
-	margin: 6em auto 1.5em auto;
+	margin: 4em auto 1.5em auto;
 }
 
 #header {
 	width: 35em;
-	margin: 0 auto;
-	height: 50px;
+	margin: 30px auto 0 auto;
+	height: 70px;
 	text-align: right;
 }
 
@@ -59,7 +59,7 @@ body {
 
 #header img {
 	border: none;
-	margin-top: 20px;
+	margin-top: 0px;
 	margin-right: 15px;
 	margin-left: -15px;
 	float: left;
@@ -67,7 +67,7 @@ body {
 
 #menu {
 	float: left;
-	margin: 44px 0 0 0;
+	margin: 24px 0 0 0;
 	font: 14px/15px Helvetica, Arial, san-serif;
 }
 
