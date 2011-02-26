@@ -60,17 +60,9 @@ body {
 	color: #9babcb;
 }
 
-#header img {
-	border: none;
-	margin-top: 0px;
-	margin-right: 15px;
-	margin-left: -15px;
-	float: left;
-}
-
 #menu {
 	float: right;
-	margin: 44px 52px 0 0;
+	margin: 45px 52px 0 0;
 	font: 14px/15px Helvetica, Arial, san-serif;
 }
 
