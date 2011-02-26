@@ -216,17 +216,17 @@ code {
 
 #footer #bild {
 	float: left;
-	width: 8em;
+	width: 7em;
 }
 
 #footer #bild img {
-	margin-left: -10px;
+	margin-left: -25px;
 	margin-top: -50px;
 }
 
 #footer #text {
 	float: right;
-	width: 27em;
+	width: 28em;
 }
 
 #footer form {
