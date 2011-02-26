@@ -59,20 +59,21 @@ body {
 
 #header img {
 	border: none;
-	margin-top: -15px;
-	margin-right: 10px;
-	margin-left: 5px;
-	float: right;
+	margin-top: 20px;
+	margin-right: 15px;
+	margin-left: -15px;
+	float: left;
 }
 
 #menu {
-	float: right;
-	margin: 42px 8px 15px 15px;
+	float: left;
+	margin: 44px 0 0 0;
 	font: 14px/15px Helvetica, Arial, san-serif;
 }
 
 #menu li {
 	display: inline;
+	margin-right: 10px;
 }
 
 #menu a {

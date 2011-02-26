@@ -33,17 +33,9 @@
   </head>
   <body onload="setupZoom()">
     <div id="header">
-		<a href="/"><img src="/bilder/generic/logo-2011-v2.png" alt="Link to footer" title="" /></a>
+		<a href="/"><img src="/bilder/generic/logo-2011-v3.png" alt="Link to footer" title="" /></a>
 		<ul id="menu">
-			{% if page.title %}
-				<li><a href="/">Front page</a></li>
-			{% endif %}
-			{% unless page.title == 'Highlights' %}
-			  <li><a href="/highlights">Highlights</a></li>
-			{% endunless %}
-			{% unless page.title == 'Archive' %}
-			  <li><a href="/archive">Archive</a></li>
-			{% endunless %}
+			{% if page.title %}<li><a href="/">Front page</a></li>{% endif %}{% unless page.title == 'Highlights' %}<li><a href="/highlights">Highlights</a></li>{% endunless %}{% unless page.title == 'Archive' %}<li><a href="/archive">Archive</a></li>{% endunless %}
 		</ul>
     </div>
 
