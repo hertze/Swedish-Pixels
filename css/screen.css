@@ -1,3 +1,5 @@
+/* @override http://localhost:4000/css/screen.css */
+
 @import "disqus.css";
 
 * {
@@ -23,14 +25,15 @@ body {
 
 #main {
 	width: 35em;
-	margin: 6em auto 1.5em auto;
+	margin: 3em auto 1.5em auto;
 }
 
 #header {
 	width: 35em;
-	margin: 0 auto;
-	height: 50px;
+	margin: 30px auto 0 auto;
+	height: 70px;
 	text-align: right;
+	background: url(/bilder/generic/logo-2011-v3.png) no-repeat right;
 }
 
 #footer-wrapper {
@@ -54,25 +57,18 @@ body {
 }
 
 #legal a {
-	color: #cf9d8a;
-}
-
-#header img {
-	border: none;
-	margin-top: -15px;
-	margin-right: 10px;
-	margin-left: 5px;
-	float: right;
+	color: #9babcb;
 }
 
 #menu {
 	float: right;
-	margin: 42px 8px 15px 15px;
+	margin: 45px 52px 0 0;
 	font: 14px/15px Helvetica, Arial, san-serif;
 }
 
 #menu li {
 	display: inline;
+	margin-right: 10px;
 }
 
 #menu a {
@@ -80,7 +76,7 @@ body {
 }
 
 #menu a:hover {
-	color: #424242;
+	color: #6a84b7;
 }
 
 .post {
@@ -124,7 +120,7 @@ h2 {
 
 a {
 	text-decoration: none;
-	color: #cf653b;
+	color: #6a84b7;
 }
 
 img {
@@ -212,17 +208,17 @@ code {
 
 #footer #bild {
 	float: left;
-	width: 8em;
+	width: 7em;
 }
 
 #footer #bild img {
-	margin-left: -40px;
+	margin-left: -25px;
 	margin-top: -50px;
 }
 
 #footer #text {
 	float: right;
-	width: 27em;
+	width: 28em;
 }
 
 #footer form {
