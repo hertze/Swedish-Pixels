@@ -1,5 +1,6 @@
 ---
-title: Why I'm Glad I Didn't Wait for iPad 2
+title: Why I&#8217;m Glad I Didn&#8217;t Wait for iPad 2
+
 layout: post
 ---
 
