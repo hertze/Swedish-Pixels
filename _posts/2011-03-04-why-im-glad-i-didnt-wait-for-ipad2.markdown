@@ -14,7 +14,7 @@ I've been using if for reading, surfing, emailing, twittering and---much to my s
 
 When I last had to write a scientific paper I had hundreds of printed papers laying around in heaps. Now I keep everything in [Mekentosj's Papers][2] and read them on the screen. It's good for the environment and it's good for my marriage.
 
-The one thing that bugged me about the iPad---being an iPhone 4 owner---was the screen resolution. My worst fear was that iPad 2 was to ship with a retina screen. Applied physics made this unlikely, but I was still relieved when it was official.
+The one thing that bugged me about the iPad---being an iPhone 4 owner---was the screen resolution. My worst fear was that iPad 2 was to ship with a retina display. Applied physics made this unlikely, but I was still relieved when it was official.
 
 While the iPad 2 looks really nice, while I would really like more memory and a thinner device, I'm glad I didn't wait for it. Apple has a history of releasing *major* upgrades every other year. This means my two-year upgrade cycle now is sync. When Apple brings out the big guns in 2012 I'll be ready. Perhaps we'll se the retina screen then.
 
