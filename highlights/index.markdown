@@ -17,7 +17,7 @@ These are some of the most visited pages on Swedish Pixels, as well as a few I'm
 * [Att springa i Vibram Five Fingers](/2009/07/att-springa-i-vibram-five-fingers/)
 * [Running in Vibram Fivefingers Speed](/2010/07/running-in-vibram-fivefingers-speed/)
 
-## On being Human ##
+## On the Human Condition ##
 
 * [A Sense of Urgency](/2011/02/sense-of-urgency/)
 * [On Life and Running](/2011/03/on-life-and-running/)
