@@ -29,7 +29,7 @@ These are some of the most visited pages on Swedish Pixels, as well as a few I'm
 * [GTD hjälper mig göra mindre](/2009/06/GTD-hjalper-mig-gora-mindre/)
 
 
-## On Writing <span class="fancy">&amp;</span> Tools for Eriting ##
+## On Writing <span class="fancy">&amp;</span> Tools for Writing ##
 
 * [Tillbaka till ursprunget -- om att skriva en roman med penna och papper](/2010/03/tillbaka-till-ursprunget-—-om-att-skriva-en-roman-med-penna-och-papper/)
 * [Skriva som Hemmingway](/2009/09/skriva-som-hemingway/)
