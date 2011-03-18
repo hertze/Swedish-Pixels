@@ -9,7 +9,7 @@ I've tried a lot of different publishing platforms: handcoded HTML, my own datab
 
 <img src="http://swedishpixels.com/bilder/filesystem.jpg" style="float:right; margin: 0 0 10px 10px;">
 
-For the last month and a half I've been running Jekyll and for the first time in years I feel content. With my web publishing, that is.
+For the last month and a half I've been running [Jekyll][9] and for the first time in years I feel content. With my web publishing, that is.
 
 The feeling of writing everything as text files on either of my computers, committing it to a Git repository and pushing it to [GitHub pages][6] for publications is best described as *satisfaction*. It feels incredibly robust, almost incorruptible. There are no upgrades you *have* to do. No database backups, which I always forgot anyway. No plugins to manage, no theme park of a web interface you have to sift through to make the tiniest change. I say good riddance to all of that.
 
@@ -30,3 +30,4 @@ Also, I really loathe [Maruku][7], the Markdown parser Jekyll ships with. I hope
 [6]: https://github.com/hertze/hertze.github.com
 [7]: http://maruku.rubyforge.org/maruku.html
 [8]: http://gityapp.com/
+[9]: http://jekyllrb.com/
