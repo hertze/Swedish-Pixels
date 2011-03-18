@@ -13,6 +13,8 @@ For the last month and a half I've been running Jekyll and for the first time in
 
 The feeling of writing everything as text files on either of my computers, committing it to a Git repository and pushing it to [GitHub pages][6] for publications is best described as *satisfaction*. It feels incredibly robust, almost incorruptible. There are no upgrades you *have* to do. No database backups, which I always forgot anyway. No plugins to manage, no theme park of a web interface you have to sift through to make the tiniest change. I say good riddance to all of that.
 
+I've also gotten the chance to acquaint myself better with Git, which really is a most extraordinary version control system. I now use if for all my writing, fact and fiction, for the web and for paper. I've tried most of the graphical interfaces, but keep coming back to [Gity][8].
+
 I haven't really seen much of the theoretical down sides of static site generation. I never did publish texts from my iPhone or iPad anyway. Comments, as well as a lot of social media sharing, can be added by using javascript snipplets, provided by Disqus, Twitter, Facebook and more.
 
 Most of my minor quibbles have had to do with Liquid, the template language used with Jekyll. If you're used to script your site with PHP or Ruby, Liquid *is* a bit limited. I also found that some Liquid code that worked great on my local Jekyll install didn't work when I sent the pages to GitHub, which was annoying to say the least.
@@ -27,3 +29,4 @@ Also, I really loathe [Maruku][7], the Markdown parser Jekyll ships with. I hope
 [5]: http://wordpress.org
 [6]: https://github.com/hertze/hertze.github.com
 [7]: http://maruku.rubyforge.org/maruku.html
+[8]: http://gityapp.com/
