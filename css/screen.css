@@ -266,17 +266,17 @@ input[name="q"] {
 .share {
 	margin-top: 1.5em;
 	margin-left: -2px;
+	margin-bottom: 1.5em;
+
 }
 
 .share div {
-	clear: right;
-	float: left;
-	height: 4em;
+	display: inline;
 }
 
 .facebook {
-	margin-top: -1px;
-	width: 103px;
+	position: relative;
+	top: -4px;
 }
 
 #ZoomCapDiv {font-size:0.8em;}
