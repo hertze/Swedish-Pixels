@@ -276,4 +276,7 @@ input[name="q"] {
 
 .facebook {
 	margin-top: -1px;
+	width: 103px;
 }
+
+#ZoomCapDiv {font-size:0.8em;}
