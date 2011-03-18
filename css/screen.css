@@ -106,7 +106,7 @@ h2 {
 	border: none;
 	height: 1px;
 	background-color: #d8d7d2;
-	margin-top: 3em;
+	margin-top: 1em;
 }
 
 .post sup, .post sub {
@@ -265,9 +265,9 @@ input[name="q"] {
 
 .share {
 	margin-top: 1.5em;
-	margin-left: -2px;
+	margin-left: -1px;
 	margin-bottom: 1.5em;
-
+	height: 1.5em;
 }
 
 .share div {
@@ -278,5 +278,3 @@ input[name="q"] {
 	position: relative;
 	top: -4px;
 }
-
-#ZoomCapDiv {font-size:0.8em;}
