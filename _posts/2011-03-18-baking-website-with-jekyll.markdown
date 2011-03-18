@@ -19,7 +19,7 @@ I haven't really seen much of the theoretical down sides of static site generati
 
 Most of my minor quibbles have had to do with Liquid, the template language used with Jekyll. If you're used to script your site with PHP or Ruby, Liquid *is* a bit limited. I also found that some Liquid code that worked great on my local Jekyll install didn't work when I sent the pages to GitHub, which was annoying to say the least.
 
-Also, I really loathe [Maruku][7], the Markdown parser Jekyll ships with. I hope someone writes a Ruby wrapper around Fletcher Penney's MultiMarkdown 3 and adds it in the near future.
+Also, I really loathe [Maruku][7], the Markdown parser Jekyll ships with. I hope someone writes a Ruby wrapper around Fletcher Penney's [MultiMarkdown 3][10] and adds it in the near future.
 
 
 [1]: http://inessential.com/2011/03/16/a_plea_for_baked_weblogs
@@ -31,3 +31,4 @@ Also, I really loathe [Maruku][7], the Markdown parser Jekyll ships with. I hope
 [7]: http://maruku.rubyforge.org/maruku.html
 [8]: http://gityapp.com/
 [9]: http://jekyllrb.com/
+[10]: https://github.com/fletcher/peg-multimarkdown
