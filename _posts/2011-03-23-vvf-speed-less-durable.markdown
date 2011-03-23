@@ -1,5 +1,5 @@
 ---
-title: Vibram Fivefinges Speed seems less durable
+title: Vibram Fivefingers Speed seems less durable
 layout: post
 ---
 
