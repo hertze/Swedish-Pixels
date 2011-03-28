@@ -278,3 +278,13 @@ input[name="q"] {
 	position: relative;
 	top: -4px;
 }
+
+.ad {
+	background-color: #fffeff;
+	width: 35em;
+	padding: 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin-left: -1px;
+}
