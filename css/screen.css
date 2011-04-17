@@ -28,9 +28,9 @@ body {
 
 #header {
 	width: 35em;
-	margin: 30px auto 0 auto;
-	height: 100px;
-	background: url(/bilder/generic/logo-2011-v4.png) no-repeat left top;
+	margin: 40px auto 0em auto;
+	height: 50px;
+	
 }
 
 #footer-wrapper {
