@@ -1,3 +1,5 @@
+/* @override http://localhost:4000/css/screen.css */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -27,9 +29,8 @@ body {
 #header {
 	width: 35em;
 	margin: 30px auto 0 auto;
-	height: 70px;
-	text-align: right;
-	background: url(/bilder/generic/logo-2011-v3.png) no-repeat right;
+	height: 100px;
+	background: url(/bilder/generic/logo-2011-v4.png) no-repeat left top;
 }
 
 #footer-wrapper {
@@ -57,9 +58,12 @@ body {
 }
 
 #menu {
-	float: right;
-	margin: 47px 54px 0 0;
 	font: 13px/15px Helvetica, Arial, san-serif;
+	top: 68px;
+	position: relative;
+	padding: 5px 0;
+	border-top: 1px solid #e5e4df;
+	border-bottom: 1px solid #e5e4df;
 }
 
 #menu li {
@@ -68,7 +72,7 @@ body {
 }
 
 #menu a {
-	color: #bebdb8;
+	color: #cbcac5;
 }
 
 #menu a:hover {
