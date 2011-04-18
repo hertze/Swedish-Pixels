@@ -28,8 +28,8 @@ body {
 
 #header {
 	width: 35em;
-	margin: 40px auto 0em auto;
-	height: 50px;
+	margin: 3em auto 0em auto;
+	height: 4.5em;
 	
 }
 
@@ -59,11 +59,16 @@ body {
 
 #menu {
 	font: 13px/15px Helvetica, Arial, san-serif;
-	top: 68px;
-	position: relative;
 	padding: 5px 0;
-	border-top: 1px solid #e5e4df;
-	border-bottom: 1px solid #e5e4df;
+	opacity: 0;
+	filter: alpha(opacity = 0);
+	zoom: 1;
+}
+
+#menu:hover { 
+	opacity: 1;
+	filter: alpha(opacity = 100);
+	zoom: 1;
 }
 
 #menu li {
@@ -285,8 +290,8 @@ input[name="q"] {
 
 .ad {
 	background-color: #fffeff;
-	width: 35em;
-	padding: 10px;
+	width: 34em;
+	padding: 0.5em;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
