@@ -288,6 +288,15 @@ input[name="q"] {
 	margin-left: -1px;
 	margin-bottom: 1.5em;
 	height: 1.5em;
+	opacity: 0.7;
+	-webkit-transition:all .5s ease-in-out;
+	-moz-transition:all .5s ease-in-out;
+	-o-transition:all .5s ease-in-out;
+	transition:all .5s ease-in-out;
+}
+
+.share:hover {
+	opacity: 1;
 }
 
 .share div {
@@ -307,4 +316,6 @@ input[name="q"] {
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 	margin-left: -1px;
+
 }
+
