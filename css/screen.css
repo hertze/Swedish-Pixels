@@ -129,6 +129,14 @@ h2 {
 a {
 	text-decoration: none;
 	color: #6a84b7;
+	-webkit-transition:all .5s ease-in-out;
+	-moz-transition:all .5s ease-in-out;
+	-o-transition:all .5s ease-in-out;
+	transition:all .5s ease-in-out;
+}
+
+a:hover {
+	color: #999791;
 }
 
 img {
