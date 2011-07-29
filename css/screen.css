@@ -334,7 +334,6 @@ input[name="q"] {
 	#menu { opacity:1; margin-top:0px; }
 	#footer #bild { display: none; }
 	#footer #text { width: 100%; }
-	.archive ul {
-		margin: 0;
-	}
+	.archive ul { margin: 0; }
+	.post img { width: 100%; }
 }
