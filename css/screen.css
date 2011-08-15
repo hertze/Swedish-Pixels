@@ -5,7 +5,7 @@
 
 body {
 	font: 106.25% Calisto, Georgia;
-	background: #f4f4f2;
+	background: #f4f4f1;
 	color: #382e24;
 }
 
@@ -20,7 +20,7 @@ body {
 * html .clearfix {height: 1%;}
 
 #main {
-	width: 35em;
+	width: 41em;
 	margin: 3em auto 1.5em auto;
 }
 
@@ -56,7 +56,7 @@ body {
 }
 
 #menu {
-	font: 0.8em/1em Helvetica, Arial, san-serif;
+	font: 0.7em/1em Helvetica, Arial, san-serif;
 	padding: 5px 0;
 	opacity: 0;
 	filter: alpha(opacity = 0);
@@ -91,9 +91,10 @@ body {
 	margin: 3em 0;
 	line-height: 1.5em;
 	font-size: 1em;
+	padding: 0 3em;
 }
 
-.archive { line-height: 1.5em; }
+.archive { line-height: 1.5em; padding: 0 3em; }
 
 .post p {
 	margin: 1.5em 0;
@@ -120,6 +121,8 @@ h2 {
 	height: 1px;
 	background-color: #d8d7d2;
 	margin-top: 1em;
+	width: 41em;
+	margin-left: -3em;
 }
 
 .post sup, .post sub {
@@ -287,7 +290,7 @@ input[name="q"] {
 .share {
 	margin-top: 1.5em;
 	margin-left: -1px;
-	margin-bottom: 1.5em;
+	margin-bottom: 3em;
 	height: 1.5em;
 	opacity: 0.7;
 	-webkit-transition:all .5s ease-in-out;
@@ -311,12 +314,12 @@ input[name="q"] {
 
 .ad {
 	background-color: #fffeff;
-	width: 34em;
+	width: 35em;
 	padding: 0.5em;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
-	margin-left: -1px;
+	margin-left: -2px;
 
 }
 
