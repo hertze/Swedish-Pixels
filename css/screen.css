@@ -139,7 +139,15 @@ a {
 	transition:all .5s ease-in-out;
 }
 
-a:hover {
+.post p a {
+	color: #d9914c;
+}
+
+.post sup a {
+	color: #6a84b7;
+}
+
+a:hover, .post p a:hover {
 	color: #999791;
 }
 
