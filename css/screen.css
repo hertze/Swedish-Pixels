@@ -340,5 +340,6 @@ input[name="q"] {
 	.archive ul { margin: 0; }
 	.post img { width: 100%; }
 	.post {margin: 1em 0; padding: 0;}
-	.post hr, .ad { margin-top: 1.5em; width: 100%; margin-left:0;}
+	.post hr { margin-top: 1.5em; width: 100%; margin-left:0;}
+	..ad { margin-top: 1.5em; width: 90%; margin-left:0;}
 }
