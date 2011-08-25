@@ -34,7 +34,7 @@ body {
 
 #footer-wrapper {
 	width: 100%;
-	background-color: #3f3831;
+	background-color: #3f3932;
 }
 
 #footer {
@@ -333,6 +333,7 @@ input[name="q"] {
 	position: relative;
 	top: -4px;
 }
+
 
 @media screen and (max-device-width: 480px) {
 
