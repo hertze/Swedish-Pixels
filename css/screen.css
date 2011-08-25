@@ -29,7 +29,7 @@ body {
 	width: 35em;
 	margin: 3em auto 0em auto;
 	height: 3em;
-	
+	padding: 0 3em;
 }
 
 #footer-wrapper {
@@ -40,7 +40,7 @@ body {
 #footer {
 	width: 35em;
 	margin: 0 auto;
-	padding: 1.5em 0;
+	padding: 1.5em 3em;
 	line-height: 1.5em;
 }
 
