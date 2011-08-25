@@ -1,5 +1,3 @@
-/* @override http://localhost:4000/css/screen.css */
-
 * {
 	margin: 0;
 	padding: 0;
@@ -92,7 +90,7 @@ body {
 }
 
 #menu a:hover {
-	color: #f1a135;
+	color: #85b4d1;
 }
 
 .post {
@@ -164,7 +162,11 @@ a {
 	color: #f1a135;
 }
 
-a:hover, .post p a:hover, #legal a:hover {
+#footer a {
+	color: #85b4d1;
+}
+
+a:hover, .post p a:hover, #legal a:hover, #footer a:hover {
 	color: #72695f;
 }
 
