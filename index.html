@@ -3,26 +3,35 @@ layout: default
 ---
 {% for post in site.posts limit:5 %}
 
-<div class="post">
-  	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  	<div class="body">{{ post.content }}</div>
-  	<div class="breaker"></div>
-  	<div class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}"> &mdash;{{ post.date | date: "%b %d, %Y" }}</div>
-	<div class="share">
-		<div class="twitter">
-		<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://swedishpixels.com{{ post.url }}/" data-text="From Swedish Pixels: {{ post.title }}" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-		</div>
-		<div class="facebook">
-			<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://swedishpixels.com{{ post.url }}/" layout="button_count" show_faces="false" width="130" font=""></fb:like>
+{% if  post.layout != "link" %}
+	<div class="post">
+  		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  		<div class="body">{{ post.content }}</div>
+  		<div class="breaker"></div>
+  		<div class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}"> &mdash;{{ post.date | date: "%b %d, %Y" }}</div>
+		<div class="share">
+			<div class="twitter">
+				<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://swedishpixels.com{{ post.url }}/" data-text="From Swedish Pixels: {{ post.title }}" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+			</div>
+			<div class="facebook">
+				<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://swedishpixels.com{{ post.url }}/" layout="button_count" show_faces="false" width="130" font=""></fb:like>
+			</div>
 		</div>
 	</div>
-	
+{% else %}
+	<div class="link">
+		<p><a href="{{ post.linkurl }}">{{ post.title }}</a> <span class="archive-date">{{ post.date | date: "%b %d"  }}</span></p>
+		<p class="description">{{ post.content }}</p>
+	</div>
+{% endif %}
+
+
 	{% case forloop.index %}
 		{% when 1 or 3 %}
 			<hr />
 		{% when 2 or 4%}
 			<hr />	
 	{% endcase %}
-</div>
+
 
 {% endfor %}

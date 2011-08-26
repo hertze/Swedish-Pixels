@@ -93,7 +93,7 @@ body {
 	color: #85b4d1;
 }
 
-.post {
+.post, .link {
 	margin: 3em 0;
 	line-height: 1.5em;
 	font-size: 1em;
@@ -125,13 +125,13 @@ h2 {
 	
 }
 
-.post hr {
+hr {
 	border: none;
 	height: 1px;
 	background-color: #4b453e;
 	margin-top: 1em;
 	width: 41em;
-	margin-left: -3em;
+
 }
 
 .post sup, .post sub {
@@ -333,6 +333,11 @@ input[name="q"] {
 	position: relative;
 	top: -4px;
 }
+
+.archivelink {
+	opacity: 0.5;
+}
+
 
 @media screen and (max-device-width: 480px) {
 

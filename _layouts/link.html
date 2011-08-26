@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="link">
+  <p><a href="{{ post.linkurl }}">{{ page.title }}</a></p>
+  	<div class="body"><p>{{ page.content }}</p></div>
+	<div class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">&mdash;{{ page.date | date: "%b %d, %Y" }}</div>
+</div>
