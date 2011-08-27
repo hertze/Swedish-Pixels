@@ -15,6 +15,16 @@ layout: nil
 	</author>
  
 	{% for post in site.posts limit:15 %}
+	{% if post.layout == "link" %}
+	<entry>
+		<title>{{ post.title }}</title>
+		<link href="{{ post.linkurl }}"/>
+		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		<published>{{ post.date | date_to_xmlschema }}</published>
+		<id>http://swedishpixels.com{{ post.id }}</id>
+		<content type="html">{{ post.content | xml_escape }}<p><a href="http://swedishpixels.com{{ post.url }}" class="permlink" title="Permanent link to this entry">&#10043;</a></p></content>
+	</entry>
+	{% else %}
 	<entry>
 		<title>{{ post.title }}</title>
 		<link href="http://swedishpixels.com{{ post.url }}"/>
@@ -23,6 +33,7 @@ layout: nil
 		<id>http://swedishpixels.com{{ post.id }}</id>
 		<content type="html">{{ post.content | xml_escape }}</content>
 	</entry>
+	{% endif %}
 	{% endfor %}
  
 </feed>
