@@ -1,5 +1,5 @@
 ---
-title: Thoughts on a Kindle Tablet - The Russians Used a Pencil
+title: Thoughts on a Kindle Tablet
 layout: link
 linkurl: http://www.therussiansusedapencil.com/post/9419824099/thoughts-on-a-kindle-tablet
 ---
