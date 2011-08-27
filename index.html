@@ -7,7 +7,6 @@ layout: default
 	<div class="post">
   		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   		<div class="body">{{ post.content }}</div>
-  		<div class="breaker"></div>
   		<div class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}"> &mdash;{{ post.date | date: "%b %d, %Y" }}</div>
 		<div class="share">
 			<div class="twitter">
@@ -19,9 +18,9 @@ layout: default
 		</div>
 	</div>
 {% else %}
-	<div class="link">
-		<p><a href="{{ post.linkurl }}">{{ post.title }}</a> <span class="archive-date">{{ post.date | date: "%b %d"  }}</span></p>
-		<p class="description">{{ post.content }}</p>
+	<div class="post">
+	  <p class="linktitle"><a href="{{ post.url }}" class="permlink" title="Permanent link to this entry">&#10043;</a><a href="{{ post.linkurl }}" title="Outbound link">{{ post.title }}</a></p>
+	  	<div class="linkbody">{{ post.content }}</div>
 	</div>
 {% endif %}
 

@@ -1,7 +1,0 @@
----
-title: Swedish Pixels
-layout: link
-linkurl: http://swedishpixels.com
----
-
-Detta är en rätt cool sida.

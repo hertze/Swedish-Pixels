@@ -102,9 +102,26 @@ body {
 
 .archive { line-height: 1.5em; padding: 0 3em; }
 
-.post p {
+.post p, .link p {
 	margin: 1.5em 0;
 }
+
+.post .linkbody {
+	margin-top: -1.5em;
+}
+
+
+.signoff {
+	color: #72695f;
+}
+
+.post .permlink, .archivelist .permlink {
+	color: #72695f;
+	width: 1.5em;
+	display: inline-block;
+	margin-left: -1.5em;
+}
+
 
 h1 {
 	font-size: 2em;
@@ -168,6 +185,10 @@ a {
 
 a:hover, .post p a:hover, #legal a:hover, #footer a:hover {
 	color: #72695f;
+}
+
+.post a.permlink:hover {
+	color: #f1a135;
 }
 
 img {
