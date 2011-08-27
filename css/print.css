@@ -3,6 +3,10 @@
 body {
 	background-color: #fffeff;
 	color: #000;
+	border: none;
+	font-size: 90%;
 }
 
-#header, #footer, #legal {display: none;}
+#header, #footer, #legal, .share {display: none;}
+
+img {width: 100%;}
