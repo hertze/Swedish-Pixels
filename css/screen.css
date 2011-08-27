@@ -93,7 +93,7 @@ body {
 	color: #85b4d1;
 }
 
-.post {
+.post, .link {
 	margin: 3em 0;
 	line-height: 1.5em;
 	font-size: 1em;
@@ -102,9 +102,26 @@ body {
 
 .archive { line-height: 1.5em; padding: 0 3em; }
 
-.post p {
+.post p, .link p {
 	margin: 1.5em 0;
 }
+
+.post .linkbody {
+	margin-top: -1.5em;
+}
+
+
+.signoff {
+	color: #72695f;
+}
+
+.post .permlink, .archivelist .permlink {
+	color: #72695f;
+	width: 1.5em;
+	display: inline-block;
+	margin-left: -1.5em;
+}
+
 
 h1 {
 	font-size: 2em;
@@ -125,13 +142,13 @@ h2 {
 	
 }
 
-.post hr {
+hr {
 	border: none;
 	height: 1px;
 	background-color: #4b453e;
 	margin-top: 1em;
 	width: 41em;
-	margin-left: -3em;
+
 }
 
 .post sup, .post sub {
@@ -168,6 +185,10 @@ a {
 
 a:hover, .post p a:hover, #legal a:hover, #footer a:hover {
 	color: #72695f;
+}
+
+.post a.permlink:hover {
+	color: #f1a135;
 }
 
 img {
@@ -334,6 +355,13 @@ input[name="q"] {
 	top: -4px;
 }
 
+<<<<<<< HEAD
+=======
+.archivelink {
+	opacity: 0.5;
+}
+
+>>>>>>> Development
 
 @media screen and (max-device-width: 480px) {
 
