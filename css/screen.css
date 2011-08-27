@@ -29,6 +29,7 @@ body {
 	width: 35em;
 	margin: 3em auto 0em auto;
 	height: 3em;
+	padding: 0 3em;
 	
 }
 
@@ -40,14 +41,14 @@ body {
 #footer {
 	width: 35em;
 	margin: 0 auto;
-	padding: 1.5em 0;
+	padding: 1.5em 3em;
 	line-height: 1.5em;
 }
 
 #legal {
 	width: 43.75em;
 	margin: 0 auto;
-	padding: 1.3em 0;
+	padding: 1.3em 3em;
 	font: 0.8em/1.875em Helvetica, Arial, san-serif;
 	color: #72695f;
 	opacity: 0.5;
@@ -93,7 +94,7 @@ body {
 	color: #85b4d1;
 }
 
-.post, .link {
+.post {
 	margin: 3em 0;
 	line-height: 1.5em;
 	font-size: 1em;
