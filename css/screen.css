@@ -29,7 +29,7 @@ body {
 	width: 35em;
 	margin: 3em auto 0em auto;
 	height: 3em;
-	
+	padding: 0 3em;
 	
 }
 
@@ -41,7 +41,7 @@ body {
 #footer {
 	width: 35em;
 	margin: 0 auto;
-	padding: 1.5em 0;
+	padding: 1.5em 3em;
 	line-height: 1.5em;
 }
 
@@ -377,7 +377,7 @@ input[name="q"] {
 
 @media screen and (max-device-width: 480px) {
 	body { font-size: 350%; }
-	#main, #header, #legal, #footer, .ad { width: 90%; }
+	#main, #legal { width: 90%; }
 	#header { margin-top: 1.2em; }
 	#menu { font-size: 80%; }
 	#menu li {margin-right: 0.8em;}
@@ -392,5 +392,5 @@ input[name="q"] {
 	.post img { width: 100%; }
 	.post, .archive {margin: 1em 0; padding: 0;}
 	hr, .ad { display: none;}
-	#header, #footer { padding: 0;}
+	#header, #footer { padding: none;}
 }
